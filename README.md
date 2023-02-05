@@ -1,2 +1,2 @@
-# intro
-e.d. json use
+# react_course_project
+e.d. json used 
